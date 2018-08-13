@@ -44,6 +44,8 @@ $ cd to the directory
 Making a pull request. Once you've pushed changes to your local repository,
 you can issue a pull request by clicking on the pull request icon.
 
+You can view the application [here](https://bit.ly/2Mnzn8y)
+
 
 ### License
 
